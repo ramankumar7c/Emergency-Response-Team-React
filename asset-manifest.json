@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Emergency-Response-Team-React/static/css/main.431b9573.chunk.css",
+    "main.js": "/Emergency-Response-Team-React/static/js/main.a86f28cb.chunk.js",
+    "main.js.map": "/Emergency-Response-Team-React/static/js/main.a86f28cb.chunk.js.map",
+    "runtime-main.js": "/Emergency-Response-Team-React/static/js/runtime-main.58322168.js",
+    "runtime-main.js.map": "/Emergency-Response-Team-React/static/js/runtime-main.58322168.js.map",
+    "static/js/2.8890a515.chunk.js": "/Emergency-Response-Team-React/static/js/2.8890a515.chunk.js",
+    "static/js/2.8890a515.chunk.js.map": "/Emergency-Response-Team-React/static/js/2.8890a515.chunk.js.map",
+    "static/js/3.0b5be51d.chunk.js": "/Emergency-Response-Team-React/static/js/3.0b5be51d.chunk.js",
+    "static/js/3.0b5be51d.chunk.js.map": "/Emergency-Response-Team-React/static/js/3.0b5be51d.chunk.js.map",
+    "index.html": "/Emergency-Response-Team-React/index.html",
+    "precache-manifest.0bce538b98472429aa835491e46a2c1f.js": "/Emergency-Response-Team-React/precache-manifest.0bce538b98472429aa835491e46a2c1f.js",
+    "service-worker.js": "/Emergency-Response-Team-React/service-worker.js",
+    "static/css/main.431b9573.chunk.css.map": "/Emergency-Response-Team-React/static/css/main.431b9573.chunk.css.map",
+    "static/js/2.8890a515.chunk.js.LICENSE.txt": "/Emergency-Response-Team-React/static/js/2.8890a515.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58322168.js",
+    "static/js/2.8890a515.chunk.js",
+    "static/css/main.431b9573.chunk.css",
+    "static/js/main.a86f28cb.chunk.js"
+  ]
+}
